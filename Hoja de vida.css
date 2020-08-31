@@ -1,0 +1,19 @@
+body{
+background-color:#000080;
+}
+h1{
+color: white;
+font-family:"Arial";
+}
+img{
+position: relative;
+left:50%;
+}
+table{
+background-color:green;
+width:45%;
+position: relative;
+left:30%;
+}
+
+

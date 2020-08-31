@@ -1,0 +1,11 @@
+body{
+background-image: url("stewie.jpg");
+}
+td p{
+color: white;
+font-family:"Arial";
+}
+img{
+width:800px;
+height:500px;
+}

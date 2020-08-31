@@ -1,0 +1,20 @@
+body{
+background-image: url(darth-vader-exegol-960x720.jpg);
+
+}
+
+h1{
+color: white;
+background-color:green;
+}
+table{
+background-color:red;
+position: relative;
+top:50%;
+left:35%;
+width: 35%;
+cursor: url(sable919.gif);
+}
+h2{
+color: black;
+}
